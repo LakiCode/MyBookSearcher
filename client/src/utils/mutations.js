@@ -29,10 +29,9 @@ export const SAVE_BOOK = gql`
     saveBook(book: $book) {
       _id
       username
-      friendCount
-      friends {
-        _id
-        username
+      savedBooks {
+        bookId
+        title
       }
     }
   }
