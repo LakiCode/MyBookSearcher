@@ -2,9 +2,9 @@
 
 ## Badge
 
-[![GraphQL.js](https://img.shields.io/badge/graphql-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://shields.io/)
-[![ApolloServer.js](https://img.shields.io/badge/apolloserver-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://shields.io/)
-[![React.js](https://img.shields.io/badge/react.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://shields.io/)
+[![GraphQL.js](https://img.shields.io/badge/graphql-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://shields.io/)  
+[![ApolloServer.js](https://img.shields.io/badge/apolloserver-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://shields.io/)  
+[![React.js](https://img.shields.io/badge/react.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://shields.io/)  
 [![MondoDB](https://img.shields.io/badge/MongoDB-%23E34F26.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://shields.io/)  
 [![JavaScript](https://img.shields.io/badge/Node.js-%231572B6.svg?style=for-the-badge&logo=Node&logoColor=white)](https://shields.io/)  
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://shields.io/)
