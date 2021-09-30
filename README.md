@@ -35,7 +35,7 @@ https://choosealicense.com/licenses/apolloserver.js/
 
 ## ScreenShot
 
-![alt text](./public/image/saveBook.jpg 'Book Search')
+![alt text](./image/saveBook.jpg 'My Book search')
 
 ## Credits
 
